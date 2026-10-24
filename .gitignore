@@ -406,4 +406,4 @@ docker-compose.dcproj
 .dockerignore
 
 #ignore rider
-.idea
+.idea.DS_Store
